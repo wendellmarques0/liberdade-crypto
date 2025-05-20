@@ -1,0 +1,74 @@
+<!DOCTYPE html><html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Liberdade Cripto</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: #121212;
+      color: #f1f1f1;
+    }
+    header {
+      background-color: #1f1f1f;
+      padding: 20px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      color: #00ffd1;
+    }
+    nav {
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      padding: 10px;
+      background-color: #2a2a2a;
+    }
+    nav a {
+      color: #f1f1f1;
+      text-decoration: none;
+    }
+    section {
+      padding: 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    h2 {
+      color: #00ffd1;
+    }
+    footer {
+      background-color: #1f1f1f;
+      text-align: center;
+      padding: 10px;
+      font-size: 0.9em;
+    }
+    a.btn {
+      display: inline-block;
+      margin-top: 10px;
+      padding: 10px 15px;
+      background-color: #00ffd1;
+      color: #000;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Liberdade Cripto</h1>
+    <p>Proteja seu patrimônio com soberania total</p>
+  </header>
+  <nav>
+    <a href="#introducao">Introdução</a>
+    <a href="#tipos">Tipos de Carteiras</a>
+    <a href="#passos">Como Abrir</a>
+    <a href="#seguranca">Segurança</a>
+    <a href="#recursos">Recursos</a>
+  </nav>  <section id="introducao">
+    <h2>Introdução à Liberdade Financeira</h2>
+    <p>As criptomoedas oferecem uma forma de liberdade que o sistema bancário tradicional não pode garantir. Aprenda como escapar do controle estatal e tomar o controle total sobre seus ativos.</p>
+  </section>  <section id="tipos">
+    <h2>Tipos de Carteiras</h2>
+    <p><strong>Custodiais
